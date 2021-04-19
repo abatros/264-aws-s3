@@ -1,0 +1,18 @@
+{
+  "name": "264-aws-s3",
+  "version": "1.0.5",
+  "description": "built on top of AWS-SDK",
+  "main": "./src/aws-s3.js",
+  "dependencies": {
+    "stack-trace": ">=0.0.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dominique klutz",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abatros/264-aws-s3"
+  }
+}
